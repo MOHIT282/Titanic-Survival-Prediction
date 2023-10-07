@@ -1,7 +1,5 @@
 # Titanic Survival Prediction
 
-![Titanic](titanic.jpg)
-
 This repository contains a machine learning project that predicts passenger survival on the Titanic. Given passenger data, we explore the dataset, preprocess it, build a prediction model, and evaluate its accuracy.
 
 ## Overview
